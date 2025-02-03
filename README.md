@@ -25,15 +25,15 @@
 
 ###
 
-<h6 align="left">┆ʟᴏʀᴅ. :https://discord.gg/oscanalhas<br>            • lua 5.4 Developer <br>                 • Luvit/luarocks<br>https://fakecrime.bio/imperador</h6>
+<h6 align="left">┆ʟᴏʀᴅ. :https://discord.gg/FEND<br>            • lua 5.4 Developer <br>                 • Luvit/luarocks<br>https://fakecrime.bio/imperador</h6>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/user_jpedro/profilecard/?igsh=MW11bG9kdnN2amhycA==" target="_blank">
+  <a href="https://www.instagram.com/mrj0tape?igsh=MWMxOWx2NHh4ajF5Yw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/oscanalhas             " target="_blank">
+  <a href="https://discord.gg/FEND" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
