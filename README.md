@@ -1,10 +1,9 @@
-
 <h2 align="left">Bem-vindos súditos</h2>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Userimperador /count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Userimperador/count.svg?"  />
 </div>
 
 ###
@@ -47,7 +46,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Userimperador &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Userimperador&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -55,21 +54,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Userimperador &locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Userimperador" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Userimperador&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Userimperador" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Userimperador /Userimperador /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Userimperador/Userimperador/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Userimperador .Userimperador &"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Userimperador.Userimperador&"  />
 </div>
 
-###
+##
